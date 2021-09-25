@@ -196,4 +196,4 @@ async def bot_info(bot, message):
             InlineKeyboardButton('📺𝐖𝐞𝐛𝐬𝐞𝐫𝐢𝐞𝐬📺', url='https://t.me/netflixorgi')
         ]
         ]
-    await message.reply(text="<b>Group : <a href='https://t.me/malayayalies'>Group</a>\nLanguage : <code>Python3</code>\nLibrary : <a href='https://docs.pyrogram.org/'>Pyrogram asyncio</a>\nChannel : <a href='https://t.me/malayalam_movies_h'>Click here</a>\nUpdate Channel : <a href='https://t.me/malayalam_movies_h'>channel</a> </b>", reply_markup=InlineKeyboardMarkup(buttons), disable_web_page_preview=True)
+    
