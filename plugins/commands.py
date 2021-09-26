@@ -99,8 +99,8 @@ async def start(bot, cmd):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("Search Here", switch_inline_query_current_chat=''),
-                        InlineKeyboardButton("suport us", url="https://t.me/malayayalies")
+                        InlineKeyboardButton("©𝗠𝗮𝗹𝗮𝘆𝗮𝗹𝗮𝗺 𝗖𝗶𝗻𝗲𝗺𝗮", switch_inline_query_current_chat=''),
+                        InlineKeyboardButton("❤𝗝𝗼𝗶𝗻 𝗛𝗲𝗿𝗲 𝗙𝗼𝗿 𝗠𝗼𝘃𝗶𝗲𝘀", url="https://t.me/malayayalies")
                     ],
                     [
                         InlineKeyboardButton("About", callback_data="about")
