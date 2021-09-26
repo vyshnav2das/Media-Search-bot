@@ -276,7 +276,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                     InlineKeyboardButton('Source Code', url='https://github.com/subinps/Media-Search-bot')
                 ]
                 ]
-            await query.message.edit(text="<b>Developer : <a href='https://t.me/subinps_bot'>SUBIN</a>\nLanguage : <code>Python3</code>\nLibrary : <a href='https://docs.pyrogram.org/'>Pyrogram asyncio</a>\nSource Code : <a href='https://github.com/subinps/Media-Search-bot'>Click here</a>\nUpdate Channel : <a href='https://t.me/subin_works'>XTZ Bots</a> </b>", reply_markup=InlineKeyboardMarkup(buttons), disable_web_page_preview=True)
+            await query.message.edit(text="<b>Developer : <a href='https://t.me/malayayalies'>𝐌𝐂</a>\nLanguage : <code>Python3</code>\nLibrary : <a href='https://docs.pyrogram.org/'>Pyrogram asyncio</a>\nNew Movies List : <a href='https://t.me/Maalayalambot?start=ar3769010240'>Click here</a>\nUpdate Channel : <a href='https://t.me/malayalam_movies_h'>MC</a> </b>", reply_markup=InlineKeyboardMarkup(buttons), disable_web_page_preview=True)
 
 
 
@@ -297,8 +297,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
                     f_caption = f"{files.file_name}"
                 buttons = [
                     [
-                        InlineKeyboardButton('More Bots', url='https://t.me/subin_works/122'),
-                        InlineKeyboardButton('Update Channel', url='https://t.me/subin_works')
+                        InlineKeyboardButton('📺𝗪𝗲𝗯𝘀𝗲𝗿𝗶𝗲𝘀📺', url='https://t.me/netflixorgi'),
+                        InlineKeyboardButton('🔰𝐍𝐞𝐰 Movies🔰', url='https://t.me/joinchat/slPWoPDfoJc3NTVl')
                     ]
                     ]
                 
@@ -329,8 +329,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
                     f_caption = f"{title}"
                 buttons = [
                     [
-                        InlineKeyboardButton('More Bots', url='https://t.me/subin_works/122'),
-                        InlineKeyboardButton('Update Channel', url='https://t.me/subin_works')
+                        InlineKeyboardButton('🔰𝐍𝐞𝐰 𝐌𝐨𝐯𝐢𝐞𝐬 🔰', url='https://t.me/joinchat/slPWoPDfoJc3NTVl'),
+                        InlineKeyboardButton('📽𝟐𝐧𝐝 𝐆𝐫𝐨𝐮𝐩📽', url='https://t.me/malayalam_cinmaa')
                     ]
                     ]
                 
